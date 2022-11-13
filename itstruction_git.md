@@ -77,10 +77,10 @@
 
 ## Команды  git chechout 
 
-    git chechout hash
+    git checkout hash
 
 Команда ля перехода на выбранный "момент разработки"
 
-    git chechout master
+    git checkout master
 
 Команда для перехода на ветку мастер
