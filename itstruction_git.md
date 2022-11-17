@@ -99,4 +99,5 @@
 
     git branch <new branch>
 
-где \<new branch> это имя новой ветки.     
+где \<new branch> это имя новой ветки. 
+
