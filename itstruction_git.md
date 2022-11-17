@@ -112,3 +112,9 @@
     git branch -d "branch_name"
 
 где "branch_name" - это имя ветки.
+
+Что бы перейти с текущей ветки на другую, нужно ввести эту команду:
+
+    git checkout "branch_name"
+
+где "branch_name" - это имя ветки.
