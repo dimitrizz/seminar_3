@@ -118,3 +118,8 @@
     git checkout "branch_name"
 
 где "branch_name" - это имя ветки.
+
+С первой лекции мы помним, что у нас есть команда:
+
+    git log
+
