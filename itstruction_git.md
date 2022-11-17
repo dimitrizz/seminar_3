@@ -144,3 +144,5 @@
     git merge "branch_name"
 
 где "branch_name" - имя ветки.
+
+
